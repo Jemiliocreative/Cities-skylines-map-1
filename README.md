@@ -2,7 +2,7 @@
 A map for cities skylines!
 
 # how to install?
- Put jemiliomap1 in C:\Users\YOUR_ACCOUNTNAME\AppData\Local\Colossal Order\Cities_Skylines\Maps.
+ Put jemiliomap1.crp in C:\Users\YOUR_ACCOUNTNAME\AppData\Local\Colossal Order\Cities_Skylines\Maps.
  Restart/start your game.
  Hit new game.
  Press Mable Island.
