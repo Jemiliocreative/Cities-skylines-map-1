@@ -28,4 +28,5 @@ A map for cities skylines!
  A lot of succes!
  
  # Do you have any asks? We have a helpdesk on our discord server! Join with this link: https://discord.gg/2N6HZqdv9P !! 
+ If you have any issue or better points, you can set them https://github.com/Jemiliocreative/Cities-skylines-map-1/issues !
  
